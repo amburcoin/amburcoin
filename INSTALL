@@ -1,0 +1,9 @@
+Building AmburCoin
+
+See doc/readme-qt.rst for instructions on building AmburCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AmburCoin.
+
+See doc/build-*.txt for instructions on building amburcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AmburCoin.
